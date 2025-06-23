@@ -1,6 +1,6 @@
 # 🩺 HealthAI: Intelligent Healthcare Assistant
 **Project by:** Likitha Puttareddy(TEAM LEAD), Sama Pavithra, Velakaturi Lekhya Sreeya
-**Institution:** SVCE College, Tirupati
+**Institution:** SVCE College, at Tirupati
 **Internship:** SmartInternz – Virtual Internship (AI using IBM Granite)
 ---
 ## 📌 Project Description
