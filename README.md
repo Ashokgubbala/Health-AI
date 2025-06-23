@@ -1,6 +1,6 @@
 # 🩺 HealthAI: Intelligent Healthcare Assistant
-**Project by:** Likitha Puttareddy(TEAM LEAD), Sama Pavithra, Velakaturi Lekhya Sreeya
-**Institution:** SVCE College, at Tirupati
+**Project by:** Korada Bhanu sri prasad (TEAM LEAD), Gubbala Ashok kumar
+**Institution:** Sir C.R.Reddy College of Engineering,Eluru
 **Internship:** SmartInternz – Virtual Internship (AI using IBM Granite)
 ---
 ## 📌 Project Description
@@ -14,11 +14,11 @@ All modules use the IBM Granite 3.3B model (downloaded locally).
 ---
 ## 📽️ Demo Video
 This project is demonstrated by:
-> I am **Likitha Puttareddy**, and our team includes **Sama Pavithra** and **Velakaturi Lekhya Sreeya**.
-> We are from **SVCE College, Tirupati**, completing the **SmartInternz Virtual Internship** using **IBM Granite**.
+> I am Korada Bhanu sri prasad , and our team includes Gubbala Ashok Kumar 
+> We are from **Sir C.R.Reddy College of Engineering,Eluru**, completing the **SmartInternz Virtual Internship** using **IBM Granite**.
 > In this video, I will explain our HealthAI project and showcase its features.
 🎥 **Watch our demo video:**
-🔗 [https://youtu.be/cwCj4w5zgPM?si=J06R0qJTyS1aPfW-](https://youtu.be/cwCj4w5zgPM?si=J06R0qJTyS1aPfW-)
+🔗 [
 ---
 ## 📸 Screenshots
 Screenshots are included in the documentation file submitted with this project.
@@ -65,9 +65,9 @@ streamlit run app.py
 
 | Name                         | Role                                                                |
 | ---------------------------- | ------------------------------------------------------------------- |
-| **Likitha Puttareddy**(LEAD) |Full-stack development, backend integration, chatbot AI, deployment |
-| **Sama Pavithra**            | Treatment module logic, design assistance                           |
-| **Velakaturi Lekhya Sreeya** | Health analytics design, testing, and dataset preparation           |
+| **Korada Bhanu sri prasad**(LEAD) |Full-stack development, backend integration, chatbot AI, deployment |
+| **Gubbala Ashok Kumar**            | Treatment module logic, design assistance                           |
+| **Korada Bhanu sri prasad ** | Health analytics design, testing, and dataset preparation           |
 ---
 ## 🧪 Features in Detail
 ### 💬 AI Health Chat
@@ -93,11 +93,11 @@ With AI-based insights via prompt.
 ## 🙏 Acknowledgements
 * IBM Granite for open-source models
 * SmartInternz for internship support
-* SVCE College, Tirupati
+* Sir C.R.Reddy College of Engineering,Eluru
 ---
 ## 🔐 Notes
 * Make sure to allow Google Drive access to the model files before submitting.
 * You can rename the `granite/` folder, but update the path in the code too.
 ---
-✨ Built with  by Likitha Puttareddy, Sama Pavithra & Velakaturi Lekhya Sreeya ✨
+✨ Built with  by Korada Bhanu sri prasad and Gubbala Ashok kumar✨
 ---
