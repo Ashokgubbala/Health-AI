@@ -12,14 +12,13 @@ It includes the following AI-powered modules:
 * 📊 Health Analytics – Visualize health data and ask insights
 All modules use the IBM Granite 3.3B model (downloaded locally).
 ---
-## 📽️ Demo Video
+## 📽️ Demo Video https://drive.google.com/file/d/19TBzUO4ul2oCI1sgkFqMg5LJZw-kDImR/view?usp=drivesdk
 This project is demonstrated by:
 > I am Korada Bhanu sri prasad , and our team includes Gubbala Ashok Kumar 
 > We are from **Sir C.R.Reddy College of Engineering,Eluru**, completing the **SmartInternz Virtual Internship** using **IBM Granite**.
 > In this video, I will explain our HealthAI project and showcase its features.
 🎥 **Watch our demo video:**
-🔗 [
----
+  🔗 [https://drive.google.com/file/d/19TBzUO4ul2oCI1sgkFqMg5LJZw-kDImR/view?usp=drivesdk]
 ## 📸 Screenshots
 Screenshots are included in the documentation file submitted with this project.
 ---
