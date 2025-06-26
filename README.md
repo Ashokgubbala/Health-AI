@@ -1,13 +1,13 @@
 ## 👥 Team Members and Contributions
 | Name                          | Role                                                                |
 | ----------------------------- | ------------------------------------------------------------------- |
-| **Likitha Puttareddy (LEAD)** | Full-stack development, backend integration, chatbot AI, deployment |
-| **Sama Pavithra**             | Treatment module logic, design assistance                           |
-| **Velakaturi Lekhya Sreeya**  | Health analytics design, testing, and dataset preparation           |
+| **Korada Bhanu sri prasad (LEAD)** | Full-stack development, backend integration, chatbot AI, deployment |
+| **Gubbala Ashok kumar**             | Treatment module logic, design assistance                           |
+| **Korada Bhanu sri prasad and Gubbala Ashok Kumar **  | Health analytics design, testing, and dataset preparation           |
 ---
 # 🩺 HealthAI: Intelligent Healthcare Assistant
-**Project by:** Likitha Puttareddy (TEAM LEAD), Sama Pavithra, Velakaturi Lekhya Sreeya
-**Institution:** SVCE College, Tirupati
+**Project by:** Korada Bhanu sri prasad (TEAM LEAD), Gubbala Ashok Kumar 
+**Institution:** Sir C.R.Reddy College of Engineering,Eluru.
 **Internship:** SmartInternz – Virtual Internship (AI using IBM Granite)
 ---
 ## 📌 Project Description
@@ -20,12 +20,12 @@ HealthAI is a Streamlit-based intelligent healthcare assistant that helps users 
 ---
 ## 📽️ Demo Video
 This project is demonstrated by:
-> I am *Likitha Puttareddy*, and our team includes *Sama Pavithra* and *Velakaturi Lekhya Sreeya*.
-> We are from **SVCE College, Tirupati**, completing the **SmartInternz Virtual Internship** using **IBM Granite**.
+> I am *Korada Bhanu sri prasad*, and our team includes Gubbala Ashok Kumar .
+> We are from **Sir C.R.Reddy College of Engineering,Eluru**, completing the **SmartInternz Virtual Internship** using **IBM Granite**.
 > In this video, I will explain our HealthAI project and showcase its features.
 
 🎥 **Watch our demo video:**
-🔗 [https://youtu.be/cwCj4w5zgPM?si=J06R0qJTyS1aPfW-](https://youtu.be/cwCj4w5zgPM?si=J06R0qJTyS1aPfW-)
+🔗 
 ---
 ## 📸 Screenshots
 > Screenshots are included in the documentation file submitted with this project.
@@ -108,6 +108,6 @@ With AI-based insights via prompt.
 * Make sure to allow Google Drive access to the model files before submitting.
 * You can rename the `granite/` folder, but update the path in the code too.
 ---
-✨ Built with  by **Likitha Puttareddy**, **Sama Pavithra** & **Velakaturi Lekhya Sreeya**✨
+✨ Built with  by **Korada Bhanu sri prasad **, ** Gubbala Ashok Kumar **✨
 ---
 
